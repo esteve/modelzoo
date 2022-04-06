@@ -1,1 +1,1 @@
-77a34e9f-8010-4028-a1a9-81bf53ef027c bucket=pubs3-77a34e9f-8010-4028-a1a9-81bf53ef027c datacenter=US encryption=none host=s3.amazonaws.com name=pubs3 port=80 public=yes storageclass=STANDARD type=S3 timestamp=1649248120.821024169s
+77a34e9f-8010-4028-a1a9-81bf53ef027c bucket=pubs3-77a34e9f-8010-4028-a1a9-81bf53ef027c datacenter=US encryption=none host=s3.amazonaws.com name=pubs3 port=80 public=yes publicurl=esteve-annex-test.us-west-2.amazonaws.com storageclass=STANDARD type=S3 timestamp=1649248974.057371127s
